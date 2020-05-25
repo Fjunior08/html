@@ -1,0 +1,31 @@
+body {
+    background-image: url('https://th.bing.com/th/id/OIP.0zaI_2WXMAROypQXEYlpSgHaEo?pid=Api&rs=1');
+    background-size: auto 110vh;
+    font-family: Arial;
+  }
+  .menu {
+    background-color: white;
+  }
+  
+  a {
+   color: black;
+   text-decoration: none;  
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li {
+    list-style: none;
+  }
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  .site-subtitle {
+    font-style: italic;
+  }
